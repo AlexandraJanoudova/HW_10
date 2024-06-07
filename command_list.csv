@@ -1,16 +1,16 @@
-  153  6.6.2024 19:44  git commit -m "All changes"
-  154  6.6.2024 19:54  git push
-  155  6.6.2024 20:00  git push
-  156  6.6.2024 20:10  brew install --cask git-credential-manager
-  157  7.6.2024 06:01  git push
-  158  7.6.2024 06:05  git pull
-  159  7.6.2024 06:07  history -n > command_list.csv
-  160  7.6.2024 06:09  git commit -m "Changes"
-  161  7.6.2024 06:10  history -n > command_list.csv
-  162  7.6.2024 06:10  git add .
-  163  7.6.2024 06:10  git commit -m "Changes"
-  164  7.6.2024 06:10  git push
-  165  7.6.2024 09:40  echo $SHELL
-  166  7.6.2024 09:40  git add .
-  167  7.6.2024 09:41  git commit -m "echo"
-  168  7.6.2024 09:42  git push 
+  157  git push
+  158  git pull
+  159  history -n > command_list.csv
+  160  git commit -m "Changes"
+  161  history -n > command_list.csv
+  162  git add .
+  163  git commit -m "Changes"
+  164  git push
+  165  echo $SHELL
+  166  git add .
+  167  git commit -m "echo"
+  168  git push 
+  169  history -E > command_list.csv
+  170  git add .
+  171  git commit -m "history -E"
+  172  git push
