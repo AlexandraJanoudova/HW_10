@@ -1,3 +1,159 @@
+    1  python main.py
+    2  git config --global user.name "user"
+    3  git config --global user.email 101.com
+    4  git config --get user.name
+    5  git config --global user.name "user"
+    6  git config --global user.email
+    7  git config --get user.name
+    8  clear
+    9  git config --global user.name "Alexandra Janoudova"
+   10  git config --global user.email alexandra750208@gmail.com
+   11  git config --get user.name
+   12  git config --get user.email
+   13  git clone https://github.com/AlexandraJanoudova/Homework.git
+   14  git config --user.name "Alexandra Janoudova"
+   15  clear
+   16  git config --global user.name "Alexandra Janoudova"
+   17  git config --global user.email 161581023+AlexandraJanoudova@users.noreply.github.com
+   18  git config --get user.name
+   19  git config --get user.email
+   20  git clone https://github.com/AlexandraJanoudova/practice.git
+   21  cd github/
+   22  cd practice
+   23  git status
+   24  git add
+   25  git add new
+   26  git commit 
+   27  git commit -m "Created a new file  named new"
+   28  git commit
+   29  git commit -m "Created a new file named new_file" 
+   30  git branch
+   31  git checkout -b test
+   32  git branch
+   33  git log
+   34  git branch test
+   35  git checkout test
+   36  touch test.txt
+   37  git add test.txt
+   38  git commit -m "added test file"
+   39  git checkout main
+   40  git log
+   41  added test file
+   42  git push
+   43  git push
+   44  cd
+   45  cd
+   46  history -c && rm ~/.bash_history
+   47  git config global user.name "Alexandra Janoudova"
+   48  git config --globaluser.name "Alexandra Janoudova"
+   49  clear
+   50  git config --global user.name "Alexandra Janoudova"
+   51  git config --global user.email 161581023+AlexandraJanoudova@users.noreply.github.com
+   52  git clone https://github.com/AlexandraJanoudova/HW_10.git
+   53  cd
+   54  cd homework
+   55  cd homework/
+   56  cd HW_10
+   57  clear
+   58  history -c && rm ~/.bash_history
+   59  clear
+   60  cd homework
+   61  cd --homework
+   62  history -c && rm ~/.bash_history
+   63  git config global user.name "Alexandra Janoudova"
+   64  git config --global user.name "Alexandra Janoudova"
+   65  git config --global user.email 161581023+AlexandraJanoudova@users.noreply.github.com
+   66  git clone https://github.com/AlexandraJanoudova/HW_10.git
+   67  history -c && rm ~/.bash_history
+   68  git config --global user.name "Alexandra Janoudova"
+   69  git config --global user.email 161581023+AlexandraJanoudova@users.noreply.github.com
+   70  git clone https://github.com/AlexandraJanoudova/HW_10.git
+   71  cd HW_10
+   72  git touch text_ignore.txt
+   73  git --help
+   74  touch text_ignore.txt
+   75  cd text_ignore.txt
+   76  cd .gitignore
+   77  git status
+   78  cd .gitignore
+   79  git add .gitignore
+   80  git status
+   81  git add
+   82  git add text_ignore.txt
+   83  git status
+   84  history -c && rm ~/.bash_history
+   85  git config --global user.name "Alexandra Janoudova"
+   86  git config --global user.email 161581023+AlexandraJanoudova@users.noreply.github.com
+   87  git clone https://github.com/AlexandraJanoudova/HW_10.git
+   88  cd HW_10
+   89  touch text_ignore.txt
+   90  ls -l
+   91  git status
+   92  git add --.gitignore "text_ignore.txt"
+   93  vim .gitignore
+   94  git status
+   95  git add
+   96  git add .
+   97  git commit
+   98  git commit -m "modified .gitignore"
+   99  git --help
+  100  clear
+  101  touch main_test.txt
+  102  git add .
+  103  git commit.
+  104  git commit -m "main_test.txt"
+  105  git checkout -b develop
+  106  git checkout develop
+  107  touch develop_test.txt
+  108  git add.
+  109  git add .
+  110  git commit .
+  111  git commit -m "new branch"
+  112  vim develop_test.txt
+  113  git status
+  114  git add .
+  115  git commit -a
+  116  git commit -m "branch"
+  117  git checkout main
+  118  git merge develop
+  119  git log
+  120  history 0 > command_list.csv
+  121  git add .
+  122  git commit -m "all changes"
+  123  git push
+  124  history > command_list.cvs
+  125  history > command_list.csv
+  126  history -c && rm ~/.bash_history
+  127  git config --global user.name "Alexandra Janoudova"
+  128  git config --global user.email alexandra750208@gmail.com
+  129  git clone https://github.com/AlexandraJanoudova/HW_10.git
+  130  cd HW_10
+  131  touch text_ignore.txt
+  132  vim .gitignore
+  133  git status
+  134  git add .
+  135  git commit -m "Created file named text_ignore.txt"
+  136  touch main_test.txt
+  137  git add .
+  138  git commit -m "Created file named main_test.txt"
+  139  git checkout -b develop
+  140  git checkout develop
+  141  touch develop_test.txt
+  142  git add .
+  143  git commit -m "Created file named develop_test.txt"
+  144  vim develop_test.txt
+  145  git status
+  146  git add .
+  147  git commit -m "Change in file develop_test.txt"
+  148  git checkout main
+  149  git merge develop
+  150  git log
+  151  history -n > command_list.txt
+  152  git add .
+  153  git commit -m "All changes"
+  154  git push
+  155  git push
+  156  brew install --cask git-credential-manager
   157  git push
   158  git pull
   159  history -n > command_list.csv
@@ -14,3 +170,7 @@
   170  git add .
   171  git commit -m "history -E"
   172  git push
+  173  history > command_list.csv
+  174  git add .
+  175  git commit -m "trying"
+  176  git push
